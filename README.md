@@ -1,12 +1,12 @@
 # cloudcode-template
 
-A cloudcode template project used for managing the Parse server code.
+A cloudcode template project used for running Parse locally.
 
 # Setup
 
 ## Install MongoDB
 
-TODO
+[See instructions](https://docs.mongodb.com/manual/installation/)
 
 ## Install express, typescript, parse-server and parse-dashboard
 
